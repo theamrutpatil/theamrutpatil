@@ -13,10 +13,10 @@
 
 <h2 align="center">📫 Connect with me</h2>
 <p align="center">
-  <a href="[https://www.linkedin.com/in/akshay-wagh-ba08b3119/](https://www.linkedin.com/in/amrut-patil-26876a342/)">
+  <a href="https://www.linkedin.com/in/amrut-patil-26876a342/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>  
-  <a href="https://www.instagram.com/_akshay_wagh_70/">
+  <a href="https://www.instagram.com/theamrutpatil?igsh=eTNiZTRvMzE1c2Nt">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
   </a>  
 </p>
